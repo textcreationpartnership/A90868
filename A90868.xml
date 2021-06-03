@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Papers of three several conferences, between the Kings most Excellent Majestie, and the Commissioners of Both Kingdomes. Concerning His Majesties comming to the Parliament; and concerning the church and peace of the kingdome: and severall propositions made by His Majestie; and the Commissioners answer. And how the Kings Majestie is come from Newcastle, and lay Wednesday night at Durham, and Thursday night at Bishops Alton: from whence, His Majestie marched Fryday last, on his way towards Holmbie. Perused, and (being ex[a]mined) is appointed to be printed and published, according to Order of Parliament, Feb. 8. 1646.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90868</idno><idno type="EEBO-CITATION">99861862</idno>
+  <idno type="VID">159926</idno>
+  <idno type="EEBO-PROQUEST">2240906963</idno>
+  
+            <idno type="STC">Wing P299</idno>
+            <idno type="STC">Thomason E374_6</idno>
+            <idno type="STC">ESTC R201338</idno>
+            <idno type="PROQUEST">99861862</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861862e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90868)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159926)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E374[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Papers of three several conferences, between the Kings most Excellent Majestie, and the Commissioners of Both Kingdomes. Concerning His Majesties comming to the Parliament; and concerning the church and peace of the kingdome: and severall propositions made by His Majestie; and the Commissioners answer. And how the Kings Majestie is come from Newcastle, and lay Wednesday night at Durham, and Thursday night at Bishops Alton: from whence, His Majestie marched Fryday last, on his way towards Holmbie. Perused, and (being ex[a]mined) is appointed to be printed and published, according to Order of Parliament, Feb. 8. 1646.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Coe, neer Cripplegate,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>anno Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159926:1"/>
+            <p>PAPERS OF Three severall CONFERENCES, BETWEEN The Kings most Excellent Majestie, And the Commissioners of both KINGDOMES.</p>
+            <p>Concerning His Majesties comming to the Parliament; And concerning the Church and Peace of the Kingdome: And severall Propositions made by His Majestie; And the Commissioners Answer.</p>
+            <p>And how the Kings Majestie is come from Newcastle, and lay Wednesday night at Durham, and Thursday night at Bishops Alton: From whence, His Majestie marched Fryday last, on His way towards Holmbie.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>PErused, and (being ex mined) is appointed to be Printed and Published, according to</hi> Order of Parliament, <hi>Feb.</hi> 8. 1646.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON: Printed by A. COE, neer Cripplegate, <hi>Anno Dom.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="transcript">
+            <pb facs="tcp:159926:2"/>
+            <pb facs="tcp:159926:2"/>
+            <head>Heads of the Conference between the his Majesty and the right honorable the Earl of Pembroke, the Earle of Denbigh, &amp;c.</head>
+            <p>THe Commissioners having kist his Majesties hand, and the King saluted each of them with his hat off, and said.</p>
+            <p>My Lords, and Gentlemen, lye are all welcom, I pitty the long journey you have taken to come to me hither, and bo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h kingdoms are beholding to you, and I receive your coming cheerfully: what is the Message you have to deliver to me?</p>
+            <sp>
+               <speaker>Commiss.</speaker>
+               <p>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y it pleas<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>r Majesty, we are appoin<g ref="char:EOLhyphen"/>ted by both Houses of Parliament, to repaire to this place, to signifie to your Majesty, that wee are come from r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e two Houses of the Parliament of England, to receive your Majesty, and to take care care that your Majesties person be conducted in safety to Holmby House.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>What time is appointed for my going to H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lmby?</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>With what convenient speed your Majesty shall please to appoint.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>In what condition are the ways now, are they not very foule, and ill to p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sse at this time?</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>We shall find out good wayes for your Maje<g ref="char:EOLhyphen"/>sties passage from hence to Holmby.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>I have something <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o propound unto you; two or three dayes hence I will declare my pleasure, and ex<g ref="char:EOLhyphen"/>presse my desires, and appoint you the time for my <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et<g ref="char:EOLhyphen"/>ting out to the South. His Majestie asked the Com<g ref="char:EOLhyphen"/>missioners
+<pb facs="tcp:159926:3"/> how his Children did.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>Your Majesties children are all well, and the Parliament are very carefull of them.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Where are they▪</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>They are at S. <hi>Iameses,</hi> with the Earle of Nor<g ref="char:EOLhyphen"/>thumberland, who hath a sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ciall care of them.</p>
+            </sp>
+         </div>
+         <div type="transcript">
+            <head>
+               <hi>Heads of the C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nference between the Kings Majesty, and the C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmissioners of Scotland, Janury</hi> 28. 1646.</head>
+            <p>THe Commissioners came to the King, to take their leaves of his Majestie, and acquainted him that they had received Instructio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s from the Parliament of Scotland to deliver his Majestie to the Commissioners of the Parliament of England, who were come to re<g ref="char:EOLhyphen"/>ceive hit Majestie, and to attend him to Holmby house.</p>
+            <sp>
+               <speaker>King.</speaker>
+               <p>My Lords and Ge<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>men, you know that I have often expressed m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> desires to go into Scotland for the se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling of my kingdome there in peace.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>May it please your Majestie, wee have received the note of the Parliament of E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inburgh, that it is not safe for your Majestie, nor the kingdom, for your Maje<g ref="char:EOLhyphen"/>stie to go thither at this time: concerning which, wee have received Instructions against your Majesties going thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her at this time.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>I c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me to your Armie to <hi>Southwel</hi> for protecti<g ref="char:EOLhyphen"/>on, and it was granted me; why then should you deny me to go to Edinburgh, seeing it is my desire for the good of that kingdome.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>Our Instructions are to deliver up the English G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ison<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to Maj▪ Gen. <hi>Skippon</hi> and to deliver you Ma<g ref="char:EOLhyphen"/>jestie to the Commissioners from the two Houses of the Parliament of England.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>I desi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to know how you intend to dispose of me, and would have you seriously to consider what I have said.</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:159926:3"/>
+               <speaker>Com.</speaker>
+               <p>May it please your Majestie, we have duly con<g ref="char:EOLhyphen"/>sidered every thing: we are but servants to the Parl. of Scotland, from whom we have received Instructions, and Commission; That in regard your Majestie hath refused to sign the Covenant, &amp; passe the Propositions wee are to deliver your Majestie to the Commissioners of both houses of the Parl. of England, who are come to attend your Majestie in safety to Holmbie.</p>
+            </sp>
+         </div>
+         <div type="transcript">
+            <head>
+               <hi>Heads of the Conference between the Kings most excellent</hi> Majestie▪ <hi>and the right Honourable Philip Earle of Pem<g ref="char:EOLhyphen"/>broke and the rest of the English Commissioners, &amp;c. at Newcastle on Thursday, Ian.</hi> 28.</head>
+            <p>The Commissioners being come to the King, Thurs<g ref="char:EOLhyphen"/>day Jan. 28. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey acquainted his Maj. that they were come <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o receive his Answer, concerning what was by them propounded to his Maj. (from the two Houses of the Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l of England) on Tuesday before.</p>
+            <sp>
+               <speaker>King.</speaker>
+               <p>I had given you an answer yesterday, but that I knew you would go to Church, it being F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st▪ day. In what readinesse is Holmby house for my comming thither?</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>May it please your Majestie▪ there is, and will be such care taken, that all things will be ready for your Maj. before your Majestie can get thither; concerning which, we desire your Majesties answer.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:159926:4"/>
+               <speaker>King.</speaker>
+               <p>I shall go with you to Holmbie house; but I would have my own Servants to remain about mee in their places.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>The Parliament have appointed Gentlemen (who are come along with us) to wait upon your Maje<g ref="char:EOLhyphen"/>stie in your Majesties Chamber: of whom, wee have a List; And for your Maiesties other Servants upon the perusall of a List of them, we shall let so many of them goe along with your Maiestie to Holmbie, as wee may upon our Instructions.</p>
+            </sp>
+            <list>
+               <head>In the List presented to his Majesty, to wait u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on his Ma<g ref="char:EOLhyphen"/>jestie, in his Majesties Bed-chamber, were these:</head>
+               <item>1 Col. Thomas Harbert▪ Commissioner of the Armie.</item>
+               <item>2 M. M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xwel, Yeoman of the Black-Rod to the house of Peeres.</item>
+               <item>3 M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Aust<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y▪ Quartermaster formerly to the King.</item>
+               <item>4 Mr James Harrington, that serv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the Prince Ele<g ref="char:EOLhyphen"/>ctor.</item>
+               <item>5 Mr. Patrick Maul, of the Bed▪ chamber.</item>
+               <item>6 Sir Jo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Thorowgood, G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntlem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Pensioner.</item>
+               <item>7 Sir <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ook Grivil, Gentlem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n pensioner.</item>
+               <item>8 Mr. Anthonie Mildmay (Sir He<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ries brother)</item>
+               <item>9 Captain Middleton Sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jeant a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Armes.</item>
+            </list>
+            <p>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter some discourse concern<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng the Kings servants, his Maiestie moved to have som<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> discourse with some of them, about some things <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ted on, and some oth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r passages thereto. His Majestie fell into discourse of Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <sp>
+               <speaker>King.</speaker>
+               <p>I desire to have two of my Chaplaines, who have not taken the Covenant, to goe along with me to
+<pb n="5" facs="tcp:159926:4"/> Holmbie, for private reading of Divine Service to me: For my Conscience cannot joine with the Directorie, and Forme of Government and Worship, which ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have set up.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>Y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur Majestie hath authorized the same govern<g ref="char:EOLhyphen"/>ment in the Kingdom of Scotland, and we hope your Majestie will joyn with us, and confirm it in the King<g ref="char:EOLhyphen"/>dome of England also.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>It is true, the Government of the Kirk of Scot<g ref="char:EOLhyphen"/>land, as it is now exe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cised, I confirmed by Act: But the Government and Discipline of the Church of England is not as yet setled, but the chiefe part of it still in De<g ref="char:EOLhyphen"/>bate: And therefore▪ untill the Government of the Church be established, I would have a Common pray<g ref="char:EOLhyphen"/>er Book allowed me, to be r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad for my own private use.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>May it please your Maiestie, we cannot do it, by the Instructions given us from the two houses of Par<g ref="char:EOLhyphen"/>li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>I know your Instructions well enough; And therfore would have you to send to the Parliament, that I may have that libertie allowed me by Them.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>We desire your Maiestie to consider, that it may be your Mai. prejudice, and the kingdome<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, to desire it; and therefore, desire your Maiestie not to presse it any further. We desire your Maiestie to appoint a time for Your Maiesties going from hence towa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds Holmbie.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Let it be Munday or Tuesday if you will.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>Tuesday if Your Majestie pleaseth.</p>
+               <p>His Majesties Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vants said, that the Kings Accom<g ref="char:EOLhyphen"/>modation could not be fitted so soon: but by Wednes<g ref="char:EOLhyphen"/>day, the Sumpters, and all things would be readie.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>If Your Maiestie please, let it be Wednesday, &amp;
+<pb n="6" facs="tcp:159926:5"/> Your Maiestie may lye that night at DVRHAM.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Content, It is Weddesday: I will go with you that night to Durham I have beene deceived in my ex<g ref="char:EOLhyphen"/>pectation from some: But if this Journie make my ex<g ref="char:EOLhyphen"/>pectations frustrated, I shall be very glad.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>Your Maiestie may be fully assured of your peo<g ref="char:EOLhyphen"/>ples love and affections to you, in joyning with your Parliament, And the Earl of Pembroke said that had he had the least doubt therof, h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> should have desired some other to have come of the Arrand: And if to wait upon him, to bring his Maiestie to his peoples affections, to joyn with his Parliament, was to frustrate his expecta<g ref="char:EOLhyphen"/>tion, they would then willingly deceive him.</p>
+            </sp>
+            <p>His Maiestie lay Wednesday night at Durham, Thurs<g ref="char:EOLhyphen"/>day night at Bishops-Alton, from whence his Maiestie marched Southward on Friday following.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
